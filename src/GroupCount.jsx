@@ -111,7 +111,7 @@ function ItemList({ addItem }) {
             
           </li>
         ))}
-      </ul>
+      </ul> 
       <hr/>
       <div style={{ marginLeft: "0px" }}>
         <button style={{ 
